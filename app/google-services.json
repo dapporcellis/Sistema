@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522474012969",
+    "project_id": "sistema-cf483",
+    "storage_bucket": "sistema-cf483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522474012969:android:66d2f2295e4c7f09957738",
+        "android_client_info": {
+          "package_name": "com.example.sistema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522474012969-q19abi4sp92pvma859tnjh8pvqv4ulli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9o6lLRsdjSUy-o-87LnNTmaRpEN5GzLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522474012969-q19abi4sp92pvma859tnjh8pvqv4ulli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
